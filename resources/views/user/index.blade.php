@@ -6,6 +6,10 @@
 </div>
 
 
+<div>
+    <a href="{{route('users.create')}}">create</a>
+</div>
+
 <div class="text-end">
     <small>Ibnu Wulida Fisyawal</small>
 </div>
